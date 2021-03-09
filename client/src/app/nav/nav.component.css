@@ -1,0 +1,8 @@
+.dropdown-toggle, .dropdown-item {
+    cursor: pointer;
+}
+
+a {
+    padding-left: 10px;
+    cursor: pointer;
+}
